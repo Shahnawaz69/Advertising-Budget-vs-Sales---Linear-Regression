@@ -17,6 +17,12 @@ This project requires the following Python libraries:
 - `scikit-learn`
 - `streamlit`
 
-You can install the necessary dependencies by running:
-```bash
-pip install -r requirements.txt
+## You can install the necessary dependencies by running:
+
+**## How to Run**
+Run the Streamlit app:
+streamlit run car_price_prediction_app.py
+Open your web browser and go to the provided URL (typically http://localhost:8501).
+Use the input form to enter data and get a car price prediction.
+## License
+This project is open-source and available under the MIT License.
